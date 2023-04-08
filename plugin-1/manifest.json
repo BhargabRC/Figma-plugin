@@ -1,0 +1,19 @@
+{
+  "name": "Export Frame to HTML/CSS",
+  "id": "com.example.export-html-css",
+ 
+
+
+  "ui": "figma-ui.html",
+  "main": "figma-plugin.js",
+  "permissions": [
+    
+  ],
+  "editorType": [
+    "figma"
+  ],
+ 
+  "api": "1.0.0"
+
+
+}
